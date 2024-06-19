@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1045800388265",
+    "project_id": "testmovil-ba318",
+    "storage_bucket": "testmovil-ba318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045800388265:android:517bd87f2dd1776edacbb8",
+        "android_client_info": {
+          "package_name": "com.mycompany.entprojecttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045800388265-hclimvail904gnpc04eua1930ts49mn0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSDzCTOQaPV0JTN2IHHG7nhKgq579l8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045800388265-hclimvail904gnpc04eua1930ts49mn0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1045800388265-fpj7o9n4b63i2k94sinkkclqp5o9g30l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.entprojecttracker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
