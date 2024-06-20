@@ -1,8 +1,8 @@
-# VitMap
+# ProjeXpert
 
 ![VitMap](images_readme/970shots_so.png)
 
-Este proyecto consiste en el desarrollo de una **Aplicación móvil para el cuidado de la salud** que proporciona acceso rápido y conveniente a servicios médicos en la palma de tu mano. Permite encontrar hospitales, médicos y farmacias cercanos, programar consultas virtuales, solicitar entrega de medicamentos y ambulancias.
+Este proyecto consiste en el desarrollo de una **Aplicación móvil para gestión de proyectos**. Organiza y supervisa tus proyectos con facilidad. Asigna tareas, establece plazos, colabora con tu equipo y realiza un seguimiento del progreso en tiempo real.
 
 ## Guía de Implementación del Proyecto 🚀
 
