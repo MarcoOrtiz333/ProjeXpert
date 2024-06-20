@@ -1,6 +1,6 @@
 # ProjeXpert
 
-![VitMap](images_readme/970shots_so.png)
+![ProjeXpert](images_readme/970shots_so.png)
 
 Este proyecto consiste en el desarrollo de una **Aplicación móvil para gestión de proyectos**. Organiza y supervisa tus proyectos con facilidad. Asigna tareas, establece plazos, colabora con tu equipo y realiza un seguimiento del progreso en tiempo real.
 
