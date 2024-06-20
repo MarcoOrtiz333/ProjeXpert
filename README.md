@@ -100,7 +100,7 @@ git clone https://github.com/MarcoOrtiz333/ProjeXpert.git
 
 
 2. Acceder al Directorio del Proyecto:
-cd VitMap
+cd ProjeXpert
 
 
 3. Instalar Dependencias:
@@ -134,7 +134,7 @@ El proyecto fue posible gracias a la contribución de las siguientes personas:
 
 # Capturas de Pantalla 📸
 
-A continuación, se presentan algunas capturas de pantalla de la aplicación **VitMap**:
+A continuación, se presentan algunas capturas de pantalla de la aplicación **ProjeXpert**:
 
 # Pantalla Principal
 ![Pantalla Principal](images_readme/Captura%20de%20pantalla%202024-06-17%20182943.png)
