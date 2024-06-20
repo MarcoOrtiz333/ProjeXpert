@@ -118,7 +118,7 @@ Este proyecto ha sido configurado utilizando las siguientes herramientas y tecno
 
 - [Flutter](https://docs.flutter.dev/) - SDK de código fuente abierto de desarrollo de aplicaciones móviles creado por Google.
 - [Firebase](https://firebase.google.com/) - Plataforma de desarrollo de aplicaciones móviles y web.
-- [Asana](https://www.atlassian.com/software/jira) - Herramienta de seguimiento de problemas y gestión de proyectos.
+- [Asana](https://asana.com/es) - Herramienta de seguimiento de problemas y gestión de proyectos.
 - [Node.js](https://nodejs.org/) - Entorno de ejecución para JavaScript.
 
 Además, el proyecto utiliza configuraciones específicas para el manejo de dependencias y la construcción de la aplicación con Flutter. Puedes encontrar detalles en el archivo de configuración del proyecto.
